@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to right, #a0eaff, #fffee0);
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.header-fun {
+  color: #ff6f61;
+  text-shadow: 2px 2px #ffbe76;
+}
+
+.mode-card .card {
+  border-radius: 20px;
+  transition: transform 0.3s;
+}
+
+.mode-card .card:hover {
+  transform: scale(1.05);
+}
+
+.mode-icon {
+  font-size: 3rem;
+}
+
+.mode-title {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
